@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card app</string>
+    <string name="full_name">Rohith Sesha Sai</string>
+    <string name="title">Android Developer </string>
+    <string name="phone_number">+1 (925) 877 4566</string>
+    <string name="username">\@ANDROIDDEV</string>
+    <string name="email">rohith@android.com</string>
+</resources>
